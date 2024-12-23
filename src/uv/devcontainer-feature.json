@@ -1,0 +1,10 @@
+{
+    "name": "uv",
+    "id": "uv",
+    "version": "1.0.0",
+    "description": "uv/uvx features",
+    "options": {},
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
